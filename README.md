@@ -23,7 +23,7 @@ Hi, I'm Leonard! I'm currently a Show Technical Director at an animation studio,
               <img src="https://www.dreamworks.com/storage/cms-uploads/GDG_S4_Key%20Art_960x1458.jpg" alt="Go, Dog. Go! | DreamWorks | Only on Netflix"><br/>
               Show Technical Director<br/>
               <a href="https://www.netflix.com/ca/title/81047300">Go, Dog. Go! by Dreamworks</a><br/>
-              Seasons 3 & 4
+              Seasons 3 & 4 (22 episodes)
             </div>
         </td>
         <td width="50%">
@@ -31,7 +31,7 @@ Hi, I'm Leonard! I'm currently a Show Technical Director at an animation studio,
               <img src="https://static.wikia.nocookie.net/ninjago/images/c/cd/Crystalized_season_15_poster.jpg/revision/latest?cb=20220618202148" alt="Ninjago Season 15: Crystallized | LEGO"><br/>
               Show Technical Director<br/>
               <a href="https://www.imdb.com/title/tt10650946/episodes/?season=4&ref_=tt_eps_sn_4">Ninjago by LEGO</a><br/>
-              Season 15: Crystallized<br/>
+              Season 15: Crystallized (30 episodes)<br/>
             </div>
         </td>
     </tr>
