@@ -2,9 +2,6 @@
 
 Hi, I'm Leonard! I'm currently a Show Technical Director at an animation studio, supporting a handful of 3D-animated childrens' series. My background is pipeline TD and software engineer in Visual Effects and Animation industries. I have a passion for develping tools and problem solving.
 
-#### Disclaimer
-My repositories and content here are my own and do not represent my employer(s). All contributions are made in my personal capacity, and no third-party intellectual property is shared.
-
 ## Facts About Me
 
 🔍 Exploring Machine Learning: New to the field of machine learning, and excited to expand my skillset in this cutting-edge technology.
@@ -66,3 +63,6 @@ My repositories and content here are my own and do not represent my employer(s).
     </tr>
     
 </table>
+
+#### Disclaimer
+My repositories and content here are my own and do not represent my employer(s). All contributions are made in my personal capacity, and no third-party intellectual property is shared.
