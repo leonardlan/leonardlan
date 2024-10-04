@@ -43,7 +43,7 @@ Hi, I'm Leonard! I'm currently a Show Technical Director at an animation studio,
           <div align="center">
               <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/The_Willoughbys_Theatrical_release_poster.jpg" alt="The Willoughbys"><br/>
               Rendering Technical Director<br/>
-              <a href="https://www.imdb.com/title/tt5206260">The Willoughbys</a>
+              <a href="https://www.imdb.com/title/tt5206260">The Willoughbys</a> on <a href="https://www.netflix.com/ca/title/80239482">Netflix</a>
           </div>
         </td>
         <td width="33%">
@@ -57,7 +57,7 @@ Hi, I'm Leonard! I'm currently a Show Technical Director at an animation studio,
           <div align="center">
               <img src="https://m.media-amazon.com/images/M/MV5BYTczZDZhZjktNjBkYy00MzFiLThlYjEtODBmOWYxNDRlMzdmXkEyXkFqcGc@._V1_.jpg" alt="Pup Academy"><br/>
               Pipeline Technical Director<br/>
-              <a href="https://www.imdb.com/title/tt10302548">Pup Academy</a>
+              <a href="https://www.imdb.com/title/tt10302548">Pup Academy</a> on <a href="https://www.netflix.com/ca/title/81040639">Netflix</a>
           </div>
         </td>
     </tr>
