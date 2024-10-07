@@ -4,15 +4,13 @@ Hi, I'm Leonard! I'm currently a Show Technical Director at an animation studio,
 
 ## Facts About Me
 
-🔍 Exploring Machine Learning: New to the field of machine learning, and excited to expand my skillset in this cutting-edge technology.
-
-🖥️ Terminal Fan: I work with Windows/Bash Terminal for my development needs.
-
 🚀 Constant Learner: I'm always looking for new opportunities to learn and grow in tech, VFX, and animation industries.
 
 🛠️ Problem Solver: I love tackling complex problems and finding efficient solutions through code.
 
 💡 Tech Explorer: Always exploring new tools, libraries, and technologies to improve my workflow and stay up-to-date.
+
+🖥️ Terminal Fan: I work with Windows/Bash Terminal for my development needs.
 
 ## Notable Work
 
