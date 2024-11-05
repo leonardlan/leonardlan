@@ -1,6 +1,6 @@
 ![Header](./images/github-header-image.png "Hi, I'm Leonard (Software Engineer / Pipeline TD)")
 
-Hi, I'm Leonard! I'm currently a Show Technical Director at an animation studio, supporting a handful of 3D-animated childrens' series. I have a strong background both as a pipeline TD and software engineer in Visual Effects and Animation industries. I have a passion for developing tools and problem solving.
+Hi, I'm Leonard! I'm currently a Show Technical Director at an animation studio. I collaborate with a small team that supports a handful of 3D-animated childrens' episodic shows. I have a strong background both as a pipeline TD and software engineer, in Visual Effects and Animation industries. I also have a passion for developing tools and problem solving.
 
 ## Facts About Me
 
