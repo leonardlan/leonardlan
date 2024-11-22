@@ -10,7 +10,7 @@ Hello! I'm Leonard, a Show Technical Director at an animation studio. I work in 
 
 💡 Tech Explorer: Always exploring new tools, libraries, and technologies to improve my workflow and stay up-to-date.
 
-🖥️ Terminal Fan: I work with Windows/Bash Terminal for my development needs.
+💻 Terminal Enthusiast: Experienced with Windows Terminal and Bash for development workflows.
 
 ## Notable Work
 
